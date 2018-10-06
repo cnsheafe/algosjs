@@ -1,0 +1,6 @@
+[submodule "data-structures/bst"]
+	path = data-structures/bst
+	url = git@github.com:cnsheafe/bst.git
+[submodule "data-structures/linked-list"]
+	path = data-structures/linked-list
+	url = git@github.com:cnsheafe/linked-list.git
